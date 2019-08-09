@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocketCan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_init">Initiation</string>
+    <string name="action_send">Send</string>
+</resources>
